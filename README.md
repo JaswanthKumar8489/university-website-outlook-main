@@ -5,5 +5,4 @@ This is my own University website out look ,Just done as mini project as i am bo
 <b>#Hope u like the project.<br>
 #Feel free to download the source code and follow for new projects.<br>
 #dont foget to give a star if u like the project.<br>
-Demo video
-link:https://reddys-university-website.herokuapp.com/</b>
+
